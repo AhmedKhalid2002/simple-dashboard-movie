@@ -1,0 +1,33 @@
+
+body{
+    background-color: #181715 ;
+
+}
+.shadow {
+    box-shadow: 0 0.5rem 1rem rgba(143, 137, 137, 0.15)!important;
+}
+
+.form-check-input:focus {
+    border-color: #92740A !important;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgb(146, 116, 10) !important;
+}
+.form-check-input:checked {
+    background-color: #92740A;
+    border-color: #92740A;
+}
+.bg-film-gold{
+    transition:all 1s  ;
+    padding: 10px 15px;
+}
+.bg-film-gold:hover{
+    background-color: #FFA41C;
+    border-radius: 10px;
+}
+.bottom-0{
+    bottom: -15px !important;
+}
+
+.cursor{
+    cursor: pointer  !important;
+}
